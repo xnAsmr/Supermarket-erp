@@ -1,0 +1,9 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "references": {
+    "design-md": {
+      "path": "D:/SoftWareData/CodeSpace/OpenCode/awesome-design-md/design-md",
+      "description": "Local clone of awesome-design-md — brand DESIGN.md design systems. Use to style UI to match a brand (Stripe/Linear/Notion/Apple/etc)."
+    }
+  }
+}
